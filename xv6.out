@@ -1,21 +1,17 @@
 
 xv6 kernel is booting
 
-hart 2 starting
 hart 1 starting
+hart 2 starting
 init: starting sh
-$ primes
-prime 2
-prime 3
-prime 5
-prime 7
-prime 11
-prime 13
-prime 17
-prime 19
-prime 23
-prime 29
-prime 31
-$ echo OK
-OK
-$ qemu-system-riscv64: terminating on signal 15 from pid 3237 (make)
+$ mkdir losOV2Z4
+$ echo > losOV2Z4/jhOLxThA
+$ mkdir losOV2Z4/McMZkFe8
+$ echo > losOV2Z4/McMZkFe8/jhOLxThA
+$ mkdir AaOzm10b
+$ echo > AaOzm10b/jhOLxThA
+$ find . jhOLxThA
+./losOV2Z4/jhOLxThA
+./losOV2Z4/McMZkFe8/jhOLxThA
+./AaOzm10b/jhOLxThA
+$ qemu-system-riscv64: terminating on signal 15 from pid 6403 (make)
